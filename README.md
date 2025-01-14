@@ -2,7 +2,7 @@
 
 This repository was created to submit the projects which was given by 'CODESOFT' for a Data Science internship.   
 
-<b>1. Iris Dataset Analysis:</b>
+<b>1. Iris Dataset Analysis:</b>  
         - I performed an Exploratory Data Analysis (EDA) on the Iris dataset to understand the relationships between features like sepal length, sepal width, petal length, and petal width.    
         - I used Python libraries such as Pandas, Matplotlib, and Seaborn to visualize data patterns and distributions.  
         - The goal was to analyze the dataset and identify how the features contribute to classifying the Iris flower species.  
