@@ -1,6 +1,7 @@
 # CODESOFT-Intership-Projects    
 
-This repository was created to submit the projects which was given by 'CODESOFT' for a Data Science internship.   
+This repository was created to submit the projects which was given by 'CODESOFT' for a Data Science internship.     
+</br>
 <b>1. Titanic Survival Prediction:</b>  
         - I worked on the Titanic dataset to predict whether passengers survived based on features like age, gender, ticket class, and fare.    
         - I implemented preprocessing techniques, feature selection, and a classification model to make predictions.    
